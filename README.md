@@ -25,8 +25,6 @@ Follow the console menu to add, search, delete, and display books.
 The program will automatically create books.txt in the project folder to save book data.
 Authors
 Meerab Aijaz Khan – 01-135232-043
-Sarah Naseer – 01-135232-088
-Wasla Abbasi – 01-135212-100
 Professional Highlights
 This project demonstrates:
 Strong understanding of BST and Queue data structures
